@@ -11,7 +11,7 @@ Authorization = "이곳에 인증 토큰을 넣으세요"
 URL = "이곳에 커스텀 API 링크를 넣으세요"
 
 bot = commands.Bot(command_prefix=['!', '핑퐁아 '])
-Ping = PingPong(url, auth)
+Ping = PingPong(URL, Authorization)
 
 
 @bot.listen()
