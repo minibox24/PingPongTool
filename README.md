@@ -13,7 +13,7 @@
 
 이메일: `minibox724@gmail.com`
 
-디스코드: `Minibox#8888`
+디스코드: `Minibox#3332`
 
 ## 사용 설명
 `pip install PingPongTool`
@@ -43,4 +43,4 @@ asyncio.run(Example())  # 비동기로 함수 실행
 ---
 버그 제보 받습니다.
 
-깃허브 이슈 or 디스코드 ( `Minibox#8888` )
+깃허브 이슈 or 디스코드 ( `Minibox#3332` )
